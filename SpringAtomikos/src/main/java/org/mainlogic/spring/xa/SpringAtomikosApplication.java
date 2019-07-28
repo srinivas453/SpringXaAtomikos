@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringAtomikosApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpringAtomikosApplication.class, args);
 	}
 
